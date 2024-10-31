@@ -1,0 +1,3 @@
+/Users/alessiofiorito/C++ projects/Conway_Game_of_Life/cmake-build-debug/CMakeFiles/MyRaylibExecutable.dir
+/Users/alessiofiorito/C++ projects/Conway_Game_of_Life/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alessiofiorito/C++ projects/Conway_Game_of_Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
